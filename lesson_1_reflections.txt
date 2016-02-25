@@ -1,0 +1,17 @@
+I didn't have to read every single line of the code.
+It was easy to isolate where I wanted to look and find the bug.
+
+Having easy access to the entire history of a file makes me more efficient,
+because I could look at when bugs are introduced into the system. Maybe I changehow I want something to work. If it's not what I expected, I could revert the changes by looking at the old version of the file.
+
+You would want to save multiple files, so that you can keep one project organized, if it's comprised of more than one file, which is common.
+Google docs pages aren't really dependent on other files and are usually stand 
+alone. When would I want google docs to have one text file depend on another?
+
+Git log will show you a history of all the commits and show an id for each commit. git diff will show the difference in two commits with a + or -.
+
+Version control acts as a safety net, so I would be confident to try a scary change, knowing I could go back to a previously working version. Suppose I'm working on collision for a game and I get it working. I then decide that it's not quite accurate or is behaving in a way I dislike. I could write and commit changes to the code and run into a bug later on. Oh no it doesn't work...... Maybe this solution just isn't cutting it and I want to go back to basics. Use git checkout to go to an older version or git diff to see the difference in collision code between my new and old files. If I choose to go back, I can then make the changes.Won't be scared to try new things.
+
+I'm not really sure what I want to use git for.
+I definitely want to use it when I start programming android, but I'm not
+currently working on any projects.
