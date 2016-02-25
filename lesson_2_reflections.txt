@@ -1,0 +1,13 @@
+When you create a repository, you're just creating something to hold
+your commits. You have made no commits at this point.
+It's important, because you need something to commit to. This will track
+all the data for this project and provide you with logs etc.
+
+The staging area is an intermediate between the working directory and the repository.
+So if I were to want something in my repo that I had in my working directory,
+I would move it into my staging area, then commit it to my repository. 
+This would work with multiple files. I can choose how many I want to commit to
+the repository. It offers value, because I have control over what I want to move to the repo.
+If I want to make one logical change to my program, I can choose 2 files that make that one logical change. If my entire project has to be committed, then it's possible that I may have many changes in one commit. This isn't great practice.
+
+
