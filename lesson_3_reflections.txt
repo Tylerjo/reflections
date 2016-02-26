@@ -1,3 +1,7 @@
 I would want to use a remote repository when I know I'm going to be
 working from multiple machines or if I have or want other people working 
 on a project.
+
+Having git automatically pull changes from a remote would be a pain in the ass.
+I want to complete control over what I'm working on, and having commits starting
+to show up in my log would be annoying.
