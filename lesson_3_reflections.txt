@@ -1,0 +1,3 @@
+I would want to use a remote repository when I know I'm going to be
+working from multiple machines or if I have or want other people working 
+on a project.
