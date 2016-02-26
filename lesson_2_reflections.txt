@@ -24,3 +24,7 @@ It just makes it easier to look at.
 The result of merging two branches together is that git adds all the changes that weren't present in the common parent file.
 Checks for additions and subtractions against the common parent and merges.
 
+Automatic merging is good for when you're the only person working on a particular section of code.
+There's really no need for me to deal with manually merging the code.
+Manual merge is good if more than one person is working with things that affect eachother.
+
