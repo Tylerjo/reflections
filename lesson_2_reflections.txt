@@ -10,4 +10,15 @@ This would work with multiple files. I can choose how many I want to commit to
 the repository. It offers value, because I have control over what I want to move to the repo.
 If I want to make one logical change to my program, I can choose 2 files that make that one logical change. If my entire project has to be committed, then it's possible that I may have many changes in one commit. This isn't great practice.
 
+You can use the staging area to commit one logical change, because
+you don't have to commit the entire project at once. You can choose what changes
+you want to commit.
+
+Branches can help me makes changes and go in different directions.
+If I was constantly using git checkout, I would be changing heads and things,
+instead of just following in order.
+
+Diagrams can help you look at how the branches are actually placed.
+It just makes it easier to look at.
+
 
